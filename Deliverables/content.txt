@@ -1,9 +1,0 @@
-5731095821	Wasuwat	Satittamajittra (Tete)
-X = 6
-Y = 5
-Z = 4
-n = 64
-w = 32
-SAX_A = 
-SAX_B = 
-Distance between SAX_A & SAX_B = 
